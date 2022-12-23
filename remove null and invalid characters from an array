@@ -1,0 +1,3 @@
+list = list.filter(function(el) { return el; });
+
+#list is the name of the array
